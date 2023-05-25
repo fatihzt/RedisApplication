@@ -1,0 +1,14 @@
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Entity\bin\Debug\net6.0\RedisApplication.Entity.deps.json
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Entity\bin\Debug\net6.0\RedisApplication.Entity.runtimeconfig.json
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Entity\bin\Debug\net6.0\RedisApplication.Entity.dll
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Entity\bin\Debug\net6.0\RedisApplication.Entity.pdb
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Entity\obj\Debug\net6.0\RedisApplication.Entity.csproj.AssemblyReference.cache
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Entity\obj\Debug\net6.0\RedisApplication.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Entity\obj\Debug\net6.0\RedisApplication.Entity.AssemblyInfoInputs.cache
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Entity\obj\Debug\net6.0\RedisApplication.Entity.AssemblyInfo.cs
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Entity\obj\Debug\net6.0\RedisApplication.Entity.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Entity\obj\Debug\net6.0\RedisApplication.Entity.dll
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Entity\obj\Debug\net6.0\refint\RedisApplication.Entity.dll
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Entity\obj\Debug\net6.0\RedisApplication.Entity.pdb
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Entity\obj\Debug\net6.0\RedisApplication.Entity.genruntimeconfig.cache
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Entity\obj\Debug\net6.0\ref\RedisApplication.Entity.dll

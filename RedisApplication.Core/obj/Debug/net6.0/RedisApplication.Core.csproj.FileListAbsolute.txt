@@ -1,0 +1,17 @@
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\bin\Debug\net6.0\RedisApplication.Core.deps.json
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\bin\Debug\net6.0\RedisApplication.Core.runtimeconfig.json
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\bin\Debug\net6.0\RedisApplication.Core.dll
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\bin\Debug\net6.0\RedisApplication.Core.pdb
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\obj\Debug\net6.0\RedisApplication.Core.csproj.AssemblyReference.cache
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\obj\Debug\net6.0\RedisApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\obj\Debug\net6.0\RedisApplication.Core.AssemblyInfoInputs.cache
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\obj\Debug\net6.0\RedisApplication.Core.AssemblyInfo.cs
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\obj\Debug\net6.0\RedisApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\obj\Debug\net6.0\RedisApplication.Core.dll
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\obj\Debug\net6.0\refint\RedisApplication.Core.dll
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\obj\Debug\net6.0\RedisApplication.Core.pdb
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\obj\Debug\net6.0\RedisApplication.Core.genruntimeconfig.cache
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\obj\Debug\net6.0\ref\RedisApplication.Core.dll
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\bin\Debug\net6.0\RedisApplication.Entity.dll
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\bin\Debug\net6.0\RedisApplication.Entity.pdb
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Core\obj\Debug\net6.0\RedisApplication.Core.csproj.CopyComplete
