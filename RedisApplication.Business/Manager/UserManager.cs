@@ -23,20 +23,21 @@ namespace RedisApplication.Business.Manager
 
         public int Add(User entity)
         {
-            bool addToRedis = _redisProvider.Add(entity);
-            if (addToRedis)
-            {
-                return _userCore.Add(entity);
-            }
-            else
-            {
-                return _userCore.Add(entity);
-            }
+            //bool addToRedis = _redisProvider.Add(entity);
+            //if (addToRedis)
+            //{
+            //    return _userCore.Add(entity);
+            //}
+            //else
+            //{
+            //    return _userCore.Add(entity);
+            //}
+            return _userCore.Add(entity);
         }
 
         public bool Delete(User entity)
         {
-            return (_userCore.Delete(entity));
+            return _userCore.Delete(entity);
         }
 
         public User Get(Expression<Func<User, bool>> filter = null)

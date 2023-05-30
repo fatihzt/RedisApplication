@@ -15,3 +15,20 @@ Stack Trace:    at RedisApplication.Api.Controllers.UserController.GetAll() in C
    at RedisApplication.Api.Middleware.RequestResponseMiddleware.Invoke(HttpContext context) in C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Api\Middleware\RequestResponseMiddleware.cs:line 28
    at RedisApplication.Api.Middleware.ExceptionHandlerMiddleware.InvokeAsync(HttpContext context) in C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Api\Middleware\ExceptionHandlerMiddleware.cs:line 23
 
+[25.05.2023 19:00:38] Error: Object reference not set to an instance of an object.
+Stack Trace:    at RedisApplication.Api.Controllers.UserController.GetAll() in C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Api\Controllers\UserController.cs:line 16
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at RedisApplication.Api.Middleware.RequestResponseMiddleware.Invoke(HttpContext context) in C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Api\Middleware\RequestResponseMiddleware.cs:line 28
+   at RedisApplication.Api.Middleware.ExceptionHandlerMiddleware.InvokeAsync(HttpContext context) in C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Api\Middleware\ExceptionHandlerMiddleware.cs:line 23
+

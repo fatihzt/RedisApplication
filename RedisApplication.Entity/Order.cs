@@ -18,7 +18,6 @@ namespace RedisApplication.Entity
 
         public DateTime OrderDate { get; set; }
 
-        // İlişki: Kullanıcıya referans (Foreign Key)
         public User User { get; set; }
 
         // İlişki: Sipariş ürünlerine referans (One-to-Many ilişkisi)

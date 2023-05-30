@@ -19,7 +19,6 @@ namespace RedisApplication.Entity
 
         public int Quantity { get; set; }
 
-        // İlişki: Siparişe referans (Foreign Key)
         
         public Order Order { get; set; }
 

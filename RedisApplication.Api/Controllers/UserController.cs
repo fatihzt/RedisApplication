@@ -13,7 +13,7 @@ namespace RedisApplication.Api.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            var result=_userService.GetAll();
+            var result=_userService.GetAll(a=>a.Id==0);
             return Ok(result);
         }
     }

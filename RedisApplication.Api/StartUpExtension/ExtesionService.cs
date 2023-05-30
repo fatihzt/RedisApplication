@@ -24,7 +24,7 @@ namespace RedisApplication.Api.StartUpExtension
 
             services.AddSingleton<ConnectionMultiplexer>(provider =>
             {
-                var redisConnectionString = "localhost:6379"; // Redis bağlantı dizesini buraya girin
+                var redisConnectionString = "localhost:6379";
                 return ConnectionMultiplexer.Connect(redisConnectionString);
             });
 
