@@ -23,4 +23,11 @@
     <ProjectReference Include="..\RedisApplication.Core\RedisApplication.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Request\OrderItem\" />
+    <Folder Include="Request\Order\" />
+    <Folder Include="Request\Product\" />
+    <Folder Include="Response\" />
+  </ItemGroup>
+
 </Project>

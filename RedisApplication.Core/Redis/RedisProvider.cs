@@ -24,7 +24,9 @@ namespace RedisApplication.Core.Redis
         public RedisProvider()
         {
             var redisConnectionString = "localhost:6379"; // Redis bağlantı dizesini buraya girin
-            _redisConnection = ConnectionMultiplexer.Connect(redisConnectionString);
+            ConfigurationOptions configOptions = ConfigurationOptions.Parse(redisConnectionString);
+            configOptions.AbortOnConnectFail = false;
+            _redisConnection = ConnectionMultiplexer.Connect(configOptions);
             _database = _redisConnection.GetDatabase();
         }
 

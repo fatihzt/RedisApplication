@@ -72,7 +72,10 @@ namespace RedisApplication.Api.Middleware
             var originalBodyStream = context.Response.Body;
             await using var responseBody = _recyclableMemoryStreamManager.GetStream();
             context.Response.Body = responseBody;
-            await _next(context);
+            if (!context.Response.HasStarted)
+            {
+                await _next(context);
+            }
             context.Response.Body.Seek(0, SeekOrigin.Begin);
             var text = await new StreamReader(context.Response.Body).ReadToEndAsync();
             context.Response.Body.Seek(0, SeekOrigin.Begin);
