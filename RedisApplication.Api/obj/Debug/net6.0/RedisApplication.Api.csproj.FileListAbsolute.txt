@@ -101,3 +101,4 @@ C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Api\bin\Debug\net6
 C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Api\bin\Debug\net6.0\StackExchange.Redis.dll
 C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Api\bin\Debug\net6.0\RedisApplication.Business.dll
 C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Api\bin\Debug\net6.0\RedisApplication.Business.pdb
+C:\Users\muham\source\Repos\RedisApplication\RedisApplication.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

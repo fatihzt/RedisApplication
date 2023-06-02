@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RedisApplication.Business.Request.User
+namespace RedisApplication.Business.Response.User
 {
-    public class UserRegistirationRequest
+    public class UserLoginResponse
     {
-        public string Username { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
         public string EMail { get; set; }

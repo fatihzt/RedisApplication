@@ -1,2 +1,5 @@
 {"Http Response Information":"31.05.2023 13:03:41","ID":"d28944d4-b345-476d-8296-8be5d5369339","IP":"::1","Schema":"https","Path":"/api/User","QueryString":"","Response Body":""}
 {"Http Response Information":"31.05.2023 13:05:34","ID":"f2006f93-df7a-4805-831c-82da909848d4","IP":"::1","Schema":"https","Path":"/api/User","QueryString":"","Response Body":""}
+{"Http Response Information":"2.06.2023 19:55:03","ID":"655ea508-e9c7-4e72-b5b9-58fab4e8b58d","IP":"::1","Schema":"https","Path":"/api/User/Register","QueryString":"","Response Body":""}
+{"Http Response Information":"2.06.2023 19:56:50","ID":"4c5029a9-6c3a-4331-a96c-fd9f88f106f4","IP":"::1","Schema":"https","Path":"/api/User/Login","QueryString":"","Response Body":""}
+{"Http Response Information":"2.06.2023 19:58:02","ID":"9dcd0e40-e8c0-4934-8b90-25d1370b3c9c","IP":"::1","Schema":"https","Path":"/api/User","QueryString":"","Response Body":""}
